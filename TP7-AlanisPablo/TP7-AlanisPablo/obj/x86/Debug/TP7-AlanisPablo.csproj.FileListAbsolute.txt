@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2010\Projects\TP7-AlanisPablo\TP7-AlanisPablo\bin\Debug\TP7-AlanisPablo.exe
+c:\users\usuario\documents\visual studio 2010\Projects\TP7-AlanisPablo\TP7-AlanisPablo\bin\Debug\TP7-AlanisPablo.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\TP7-AlanisPablo\TP7-AlanisPablo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2010\Projects\TP7-AlanisPablo\TP7-AlanisPablo\obj\x86\Debug\TP7-AlanisPablo.exe
+c:\users\usuario\documents\visual studio 2010\Projects\TP7-AlanisPablo\TP7-AlanisPablo\obj\x86\Debug\TP7-AlanisPablo.pdb
